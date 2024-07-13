@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\viewlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:viewlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\viewlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:viewlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\counterlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:counterlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\createbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:createbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|e:\\nibm\\gui\\.gui cw\\gui cw\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\db_connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:db_connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|e:\\nibm\\gui\\.gui cw\\gui cw\\admincars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:admincars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|e:\\nibm\\gui\\.gui cw\\gui cw\\admincars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:admincars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\createbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:createbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\counterhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:counterhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\counterlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:counterlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6699C036-5ECA-40AF-AB85-0A720A822180}|GUI CW.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CounterHome.cs [Design]",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\CounterHome.cs",
+              "RelativeDocumentMoniker": "CounterHome.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\CounterHome.cs [Design]",
+              "RelativeToolTip": "CounterHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:06:17.841Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminCars.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\AdminCars.cs",
+              "RelativeDocumentMoniker": "AdminCars.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\AdminCars.cs",
+              "RelativeToolTip": "AdminCars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:36:33.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminCars.cs [Design]",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\AdminCars.cs",
+              "RelativeDocumentMoniker": "AdminCars.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\AdminCars.cs [Design]",
+              "RelativeToolTip": "AdminCars.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:36:28.6Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DB_Connection.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\DB_Connection.cs",
+              "RelativeDocumentMoniker": "DB_Connection.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\DB_Connection.cs",
+              "RelativeToolTip": "DB_Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:22:17.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Counter.cs",
+              "RelativeDocumentMoniker": "Counter.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Counter.cs",
+              "RelativeToolTip": "Counter.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwF8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:17:39.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:17:26.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\DashBoard.cs",
+              "RelativeDocumentMoniker": "DashBoard.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\DashBoard.cs",
+              "RelativeToolTip": "DashBoard.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:18:54.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bookings.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Bookings.cs",
+              "RelativeDocumentMoniker": "Bookings.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Bookings.cs",
+              "RelativeToolTip": "Bookings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:04:37.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Cars.cs",
+              "RelativeDocumentMoniker": "Cars.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Cars.cs",
+              "RelativeToolTip": "Cars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:43:05.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "AdminLogin.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\AdminLogin.cs",
+              "RelativeToolTip": "AdminLogin.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:11:46.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "AdminLogin.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:11:40.05Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:10:39.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBooking.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\CreateBooking.cs",
+              "RelativeDocumentMoniker": "CreateBooking.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\CreateBooking.cs",
+              "RelativeToolTip": "CreateBooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:09:57.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CounterLogin.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\CounterLogin.cs",
+              "RelativeDocumentMoniker": "CounterLogin.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\CounterLogin.cs",
+              "RelativeToolTip": "CounterLogin.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwFgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:08:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewLogin.cs",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\ViewLogin.cs",
+              "RelativeDocumentMoniker": "ViewLogin.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\ViewLogin.cs",
+              "RelativeToolTip": "ViewLogin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAOkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:03:21.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewLogin.cs [Design]",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\ViewLogin.cs",
+              "RelativeDocumentMoniker": "ViewLogin.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\ViewLogin.cs [Design]",
+              "RelativeToolTip": "ViewLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:00:26.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Payment.cs [Design]",
+              "RelativeToolTip": "Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:00:24.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Help.cs [Design]",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Help.cs",
+              "RelativeDocumentMoniker": "Help.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Help.cs [Design]",
+              "RelativeToolTip": "Help.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:00:22.958Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\DashBoard.cs",
+              "RelativeDocumentMoniker": "DashBoard.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\DashBoard.cs [Design]",
+              "RelativeToolTip": "DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:00:20.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Customer.cs [Design]",
+              "RelativeToolTip": "Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:00:17.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateBooking.cs [Design]",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\CreateBooking.cs",
+              "RelativeDocumentMoniker": "CreateBooking.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\CreateBooking.cs [Design]",
+              "RelativeToolTip": "CreateBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:00:16.292Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CounterLogin.cs [Design]",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\CounterLogin.cs",
+              "RelativeDocumentMoniker": "CounterLogin.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\CounterLogin.cs [Design]",
+              "RelativeToolTip": "CounterLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:00:00.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cars.cs [Design]",
+              "DocumentMoniker": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Cars.cs",
+              "RelativeDocumentMoniker": "Cars.cs",
+              "ToolTip": "E:\\NIBM\\GUI\\.GUI CW\\GUI CW\\Cars.cs [Design]",
+              "RelativeToolTip": "Cars.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:59:33.556Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

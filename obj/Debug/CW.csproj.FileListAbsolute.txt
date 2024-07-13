@@ -1,0 +1,12 @@
+E:\NIBM\GUI\.GUI CW\CW\obj\Debug\CW.csproj.AssemblyReference.cache
+E:\NIBM\GUI\.GUI CW\CW\obj\Debug\CW.CounterLogin.resources
+E:\NIBM\GUI\.GUI CW\CW\obj\Debug\CW.Properties.Resources.resources
+E:\NIBM\GUI\.GUI CW\CW\obj\Debug\CW.csproj.GenerateResource.cache
+E:\NIBM\GUI\.GUI CW\CW\obj\Debug\CW.csproj.CoreCompileInputs.cache
+E:\NIBM\GUI\.GUI CW\CW\bin\Debug\CW.exe.config
+E:\NIBM\GUI\.GUI CW\CW\bin\Debug\CW.exe
+E:\NIBM\GUI\.GUI CW\CW\bin\Debug\CW.pdb
+E:\NIBM\GUI\.GUI CW\CW\obj\Debug\CW.exe
+E:\NIBM\GUI\.GUI CW\CW\obj\Debug\CW.pdb
+E:\NIBM\GUI\.GUI CW\CW\obj\Debug\CW.CounterHome.resources
+E:\NIBM\GUI\.GUI CW\CW\obj\Debug\CW.DashBoard.resources
